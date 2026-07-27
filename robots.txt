@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-its2wd.pulaucuan.sbs/sitemap.xml
